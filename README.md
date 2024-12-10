@@ -5,10 +5,10 @@ Created Fall 2024 (November - December).
 HCDE 438 Project Proposal: Bird Photos Quiz
 
 **Overview**
-I love birdwatching and traveling to go look for birds, but that also means I need to brush up on my identification skills to make it easier for me out in the field. Sometimes, it’s helpful to be able to quiz myself on regional birds to test my knowledge or see where I’m lacking. While there is currently an abundance of field guides and species information, it’s harder to find bird quizzes, especially those that let you select a region. This website will allow users to input a location to generate a quiz of 10 pictures of different species that have been seen within 30 miles and the last 30 days relative to the location. 
+I love birdwatching and traveling to go look for birds, but that also means I need to brush up on my identification skills to make it easier for me out in the field. Sometimes, it’s helpful to be able to quiz myself on regional birds to test my knowledge or see where I’m lacking. While there is currently an abundance of field guides and species information, it’s harder to find bird quizzes, especially those that let you select a region. This website will allow users to input a location to generate a quiz of 10 random pictures of different species that have been seen in that location within the last 30 days. 
 
 **Detailed description**
-Users will be able to enter a location name or coordinates to generate 10 random images of species that have recently been seen in that area. Each question is worth three points (one point for correct order, one for family, and one for species). After the 10 questions are answered, users will see their score out of 30 and have the option to replay using the same parameters or to start over with a new location. 
+Users will be able to enter a location name to generate 10 random images of species that have recently been seen in that area. Each question is worth three points (one point for correct order, one for family, and one for species). After the 10 questions are answered, users will see their score out of 30 and have the option to replay using the same parameters or to start over with a new location. 
 
 **Users**
 The intended audience is any novice or experienced birdwatcher looking to test their knowledge of bird identification in a given part of the world. It can also serve as a learning and testing tool for anybody trying to learn species taxonomy. 
