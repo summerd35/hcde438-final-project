@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+  
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.quiz-image-size {
+  width: 50%;        
+  height: auto;      
+  margin: 0 auto;    
+  display: block;  
+}
+
+select {
+  color: blue;
+  margin: 4px;
+  height: 30px;
+  padding: 4px;
+}
+
+select:disabled {
+  color: gray;
+  margin: 4px;
+  padding: 2px;
+}
+
+.check-answer-btn {
+  background-color: blue;
+  font-size: 14px;
+  padding: 8px;
+}
+
+.check-answer-btn:hover {
+  background-color: rgb(6, 6, 178);
+  font-size: 14px;
+
+}
+
+.quiz-settings-container {
+  width: 100%;
+  max-width: 800px; 
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: left;
+  border: 2px solid gray;
+  background-color: rgb(247, 241, 241);
+
+  
+}
+
+
+.quiz-settings-container label {
+  display: block; 
+  margin-bottom: 10px; 
+}
+
+.location-select {
+  display: flex; 
+  justify-content: flex-start; 
+  
+}
